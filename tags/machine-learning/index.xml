@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Saravanan Arumugam</title>
+    <link>https://Saravanan-Arumugam3.github.io/portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Saravanan Arumugam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2024 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://Saravanan-Arumugam3.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aspect Based Sentiment Analysis of Amazon Reviews - MLOps | NLP</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 25 Apr 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-1/</guid>
+      <description>Project Overview The goal of this project is to design and implement an advanced analytics engine based on Natural Language Processing methodologies. The system is intended to automatically parse, dissect, and assimilate customer feedback from Amazon reviews. Its primary goal is to distill sentiment trajectories, uncover actionable insights, and group feedback into thematic buckets for each category of products, enabling businesses to improve product offerings, raise customer service standards, and increase overall consumer satisfaction.</description>
+    </item>
+    
+  </channel>
+</rss>

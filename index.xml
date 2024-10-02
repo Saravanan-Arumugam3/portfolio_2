@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saravanan&#39;s Data Science Portfolio on Saravanan Arumugam</title>
+    <link>https://Saravanan-Arumugam3.github.io/portfolio/</link>
+    <description>Recent content in Saravanan&#39;s Data Science Portfolio on Saravanan Arumugam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2024 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://Saravanan-Arumugam3.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third-Party Logistics Database - Data Management | SQL &amp; NoSQL</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-3/</link>
+      <pubDate>Fri, 20 Sep 2024 11:00:59 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-3/</guid>
+      <description>Project Overview This project aimed to design and implement a robust database management system (DBMS) for a third-party logistics (3PL) service provider managing the end-to-end supply chain for manufacturing industry. The system covered critical areas like supplier management, transportation, warehousing, invoicing, and vehicle tracking. The project utilized both relational (SQL) and non-relational (NoSQL) databases to address the complex data needs of the 3PL provider.
+By integrating key logistics processes, the solution improved efficiency, ensured data integrity, and supported scalability in operations.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Analysis of Amazon Reviews - MLOps | NLP</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 25 Apr 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-1/</guid>
+      <description>Project Overview This project focuses on building a scalable, end-to-end machine learning pipeline for sentiment analysis of Amazon product reviews using Natural Language Processing (NLP) techniques, adhering to Machine Learning Operations (MLOps) principles. The goal is to automatically analyze customer feedback, extract actionable insights, enabling businesses to enhance product development and improve customer service.
+Leveraging advanced NLP techniques such as tokenization, lemmatization, sentiment scoring, and thematic modeling, we built a robust and scalable system.</description>
+    </item>
+    
+    <item>
+      <title>Movie Clustering and Rating Prediction System - Supervised ML | Unsupervised ML</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-4/</link>
+      <pubDate>Sat, 02 Dec 2023 10:00:00 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-4/</guid>
+      <description>Project Overview This project aimed to tackle the growing need for personalized content recommendations and efficient movie organization through movie clustering and rating prediction. By leveraging the IMDb dataset from Kaggle, we built a movie clustering system to improve content organization and enhance the user experience. Additionally, we developed a movie rating prediction model using various machine learning algorithms to predict user ratings more accurately.
+The clustering aspect of the project allows for better content categorization, while the rating prediction model provides tailored recommendations, improving the overall content delivery.</description>
+    </item>
+    
+    <item>
+      <title>Python Package for Stock Price Classification - Machine Learning | Neural Networks</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-6/</link>
+      <pubDate>Tue, 25 Apr 2023 16:00:00 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-6/</guid>
+      <description>Project Overview This project focused on stock price classification by utilizing both classical machine learning algorithms such as Logistic Regression and modern neural networks. The objective was to predict whether a stock will close with an increase using data retrieved from the Alpaca API. The project implements machine learning models, conducts unit testing, and provides a streamlined pipeline for stock market analysis and prediction in the shape of a python package.</description>
+    </item>
+    
+    <item>
+      <title>Energy Consumption Prediction and Outlier Detection - Machine Learning | Data Science</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-5/</link>
+      <pubDate>Sun, 02 Apr 2023 12:00:00 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-5/</guid>
+      <description>Project Overview This project focuses on predicting energy consumption using regression models and detecting outliers using classification techniques. The dataset consists of energy consumption data from a household over several months, with various features such as weather conditions and appliance usage. The goal is to enhance the accuracy of energy prediction models and to efficiently identify outliers in energy usage.
+Key Achievements  Built regression models using Stochastic Gradient Descent (SGD) with and without Principal Component Analysis (PCA) for dimensionality reduction and regularization using NumPy from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Impact of Covid-19 on New York City&#39;s 3-1-1 Service - Data Visualization | Tableau</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/post/project-2/</link>
+      <pubDate>Tue, 20 Dec 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/post/project-2/</guid>
+      <description>Project Overview This project focused on visualizing the impact of the COVID-19 pandemic on New York City&amp;rsquo;s 3-1-1 municipal service requests using Tableau. By analyzing over 31 million service requests, we developed an interactive dashboard to uncover patterns in complaint types and response times, particularly during the pandemic. The objective was to provide actionable insights for city planners and public officials, aiding in municipal service management and helping improve the efficiency of city agencies in future crises.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Saravanan-Arumugam3.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Saravanan-Arumugam3.github.io/portfolio/contact/</guid>
+      <description>Connect with me through these platforms.
+   Platform URL     Phone: +1-646-251-2318   Email: saravanan.arumugam306@gmail.com   Github: https://github.com/Saravanan-Arumugam3   LinkedIn: https://www.linkedin.com/in/saravanan94auto    </description>
+    </item>
+    
+  </channel>
+</rss>
